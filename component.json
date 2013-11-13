@@ -9,5 +9,8 @@
   "files": [
     "angular-route.min.js"
   ],
+  "dependencies": {
+    "components/angular.js": "1.2.0"
+  },
   "license": "MIT"
 }
